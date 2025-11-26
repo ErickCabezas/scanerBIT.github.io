@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Escáner de QR - Business IT</title>
+    
+    <!-- Librería Html5-QRCode -->
+    <script src="https://unpkg.com/html5-qrcode"></script>
+    
+    <!-- Estilos CSS -->
+    <link rel="stylesheet" href="styles/styles.css">
+</head>
+<body>
+    <div class="container">
+        <!-- Header - Estilo Power App -->
+        <div class="header">
+            <div class="header-left">
+                <!-- Aquí puedes poner tu logo -->
+                <img src="img/LogoBitVerdeYBlanco.png" alt="Business IT" class="logo-img">
+            </div>
+            <div class="header-icons">
+                <!-- Icono de ticket decorativo -->
+                <img src="img/entradas.png" alt="Ticket Icon" class="ticket-icon">
+            </div>
+        </div>
+
+        <div class="image-content">
+                <img src="img/scanGif.gif" alt="Scan" >
+        </div>
+
+        <!-- Contenido Principal -->
+        <div class="main-content">
+            <h2 class="scanner-title">Escáner de Códigos QR</h2>
+
+            <button class="btn-scan" id="btnIniciar" onclick="iniciarEscaner()">
+                📷 Iniciar Escáner
+            </button>
+            
+            <button class="btn-scan btn-stop" id="btnDetener" onclick="detenerEscaner()" style="display: none;">
+                ⏹️ Detener Escáner
+            </button>
+
+            <div id="reader"></div>
+
+            <!-- Loading -->
+            <div class="loading" id="loading">
+                <div class="spinner"></div>
+                <div class="loading-text">Verificando código...</div>
+            </div>
+
+            <!-- Resultado -->
+            <div class="result" id="resultado"></div>
+        </div>
+    </div>
+
+    <!-- JavaScript -->
+    <script src="js/scaner.js"></script>
+</body>
+</html>
