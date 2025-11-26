@@ -2,10 +2,10 @@
 
 Sistema completo de generación y verificación de códigos QR para eventos, desarrollado con **Power Apps**, **Power Automate** y **aplicación web pública**.
 
-<img width="212" height="390" alt="image" src="https://github.com/user-attachments/assets/bb1360fb-9a1e-439e-9099-49896512f529" />
-<img width="212" height="580" alt="image" src="https://github.com/user-attachments/assets/db920960-d0ff-454c-af9f-e6c8a3f88825" />
-<img width="212" height="580" alt="image" src="https://github.com/user-attachments/assets/55609950-c27f-4e2b-8448-73c0749b9326" />
-<img width="212" height="580" alt="image" src="https://github.com/user-attachments/assets/7edbc79c-fa6c-4084-9576-6f1416edc277" />
+<img width="210" height="390" alt="image" src="https://github.com/user-attachments/assets/bb1360fb-9a1e-439e-9099-49896512f529" />
+<img width="210" height="580" alt="image" src="https://github.com/user-attachments/assets/db920960-d0ff-454c-af9f-e6c8a3f88825" />
+<img width="210" height="580" alt="image" src="https://github.com/user-attachments/assets/55609950-c27f-4e2b-8448-73c0749b9326" />
+<img width="210" height="580" alt="image" src="https://github.com/user-attachments/assets/7edbc79c-fa6c-4084-9576-6f1416edc277" />
 
 ---
 
