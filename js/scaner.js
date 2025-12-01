@@ -6,7 +6,7 @@
 let html5QrCode = null;
 
 // ⚠️ IMPORTANTE: Reemplaza esta URL con la URL de tu Power Automate Flow
-const FLOW_URL = "https://default2488499668634925a1baf1a160b581.e2.environment.api.powerplatform.com:443/powerautomate/automations/direct/workflows/8306a7eddef64d10b9cc4a13a87ca360/triggers/manual/paths/invoke?api-version=1&sp=%2Ftriggers%2Fmanual%2Frun&sv=1.0&sig=LhdlMoZWHOVWrJOrgkKRYgqUFb2KXsdH7Uacm5H61HE";
+const FLOW_URL = "https://default2488499668634925a1baf1a160b581.e2.environment.api.powerplatform.com:443/powerautomate/automations/direct/workflows/750860d6bf9f49d186b05613e59ec098/triggers/manual/paths/invoke?api-version=1&sp=%2Ftriggers%2Fmanual%2Frun&sv=1.0&sig=xdzwDGeUcD7Rx7jNcXtzXu-KE5nD-S_O3qkE2hY8aOc";
 
 /* ============================================
    FUNCIÓN: Iniciar Escáner
